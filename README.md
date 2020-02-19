@@ -1,4 +1,4 @@
-# heckle.
+# Heckle.
 
 #### _Team Week Project - 2/21/2020_
 
@@ -21,7 +21,7 @@ _This application will make API requests to google maps in order to pinpoint an 
 *Option One:*
 1. Open up your terminal.
 2. Navigate to the desired directory in which you want to clone this repository.
-3. Use `git clone https://github.com/acolistro/merging-practice-api-project` to clone this repository.
+3. Use `git clone https://github.com/acolistro/Heckle2` to clone this repository.
 4. Open the repository.
 4. Install all dependencies using `$ npm install` in your terminal.
 5. Use `$ npm run build` to start a package bundle.
@@ -32,7 +32,7 @@ _This application will make API requests to google maps in order to pinpoint an 
 
 *Option Two:*
 
-Copy and paste `https://jonathancarlos21.github.io/acolistro/merging-practice-api-project` into your address bar.
+Copy and paste `https://jonathancarlos21.github.io/acolistro/Heckle2` into your address bar.
 
 ## **Known Bugs**
 
