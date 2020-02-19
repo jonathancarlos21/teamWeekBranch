@@ -17,7 +17,9 @@ _This application will make API requests to google maps in order to pinpoint an 
 |----------|:-----:|--------|
 | User clicks on the google map provided. | 'click' | A pinpoint is displayed on the map. |
 | User enters information on the heckle incident in a comment box. | "string of information" | "entered string of information." |
-| User clicks "Enter!" | 'click' | The location is displayed with the incident information |
+| User clicks "Submit." | 'click' | The map location is displayed with the incident information. |
+| Multiple users submit incidents. | 'click click click' | The map shown displays multiple incidents. |
+| User searches for safe spaces through location. | 'city or zip code' | A list of safe places nearby is displayed with a modal. |
 
 ## **Setup/Installation**
 
