@@ -48,15 +48,17 @@ If you have any questions, comments, or concerns, feel free to contact the conte
 ## **Technologies used**
 * Google Maps API
 
-* JavaScript
+* Webpack
 
-* jQuery
+* JavaScript 
 
-* HTML
+* jQuery 3.4.1
+
+* HTML 5
 
 * CSS
 
-* Bootstrap
+* Bootstrap 4.4.1
 
 * Visual Studio Code
 
@@ -64,6 +66,6 @@ If you have any questions, comments, or concerns, feel free to contact the conte
 
 ## **License**
 
-Copyright (c) 2020 **_heckle._**
+Copyright (c) 2020 **_Heckle._**
 
 This software is licensed under the MIT license.
