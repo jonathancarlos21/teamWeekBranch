@@ -8,6 +8,9 @@
 
 _This application will make API requests to google maps in order to pinpoint an exact location using longitude and latitude. By doing so, user's will be able to, at anytime, click a location and be prompted to enter fields of information. For the purposes of this app, the infomation will consist of instances during which someone is being heckled._
 
+## Preview
+<img src="./img/landing.png">
+
 ## **Behavior Driven Development**
 
 | Behavior | Input | Output |
