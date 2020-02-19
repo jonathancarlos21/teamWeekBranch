@@ -1,45 +1,66 @@
-# _{Application Name}_
+# heckle.
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Team Week Project - 2/21/2020_
 
-#### By _**{List of contributors}**_
+#### _By Alyssa Colistro, Mariam Alaeddin, Rachel Schieferstein, and Jonathan Carlos_
 
-## Description
+## **Description**
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This application will make API requests to google maps in order to pinpoint an exact location using longitude and latitude. By doing so, user's will be able to, at anytime, click a location and be prompted to enter fields of information. For the purposes of this app, the infomation will consist of instances during which someone is being heckled._
 
-|   Behavior    |   Input     |     Output    |
-|--------------:|:-----------:|--------------:|
+## **Behavior Driven Development**
 
+| Behavior | Input | Output |
+|----------|:-----:|--------|
+| User clicks on the google map provided. | 'click' | A pinpoint is displayed on the map. |
+| User enters information on the heckle incident in a comment box. | "string of information" | "entered string of information." |
+| User clicks "Enter!" | 'click' | The location is displayed with the incident information |
 
+## **Setup/Installation**
 
+*Option One:*
+1. Open up your terminal.
+2. Navigate to the desired directory in which you want to clone this repository.
+3. Use `git clone https://github.com/acolistro/merging-practice-api-project` to clone this repository.
+4. Open the repository.
+4. Install all dependencies using `$ npm install` in your terminal.
+5. Use `$ npm run build` to start a package bundle.
+5. Drag the html file into your broswer or use `$ npm run start` in your terminal for a live server. 
+6. Click a spot on the map.
+7. Enter information on your experience.
+8. Click "Enter!"
 
+*Option Two:*
 
+Copy and paste `https://jonathancarlos21.github.io/acolistro/merging-practice-api-project` into your address bar.
 
-## Setup/Installation Requirements
+## **Known Bugs**
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+No known bugs at this time.
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+## **Support and contact details**
 
-## Known Bugs
+If you have any questions, comments, or concerns, feel free to contact the content creator at examplemail@company.net 
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+## **Technologies used**
+* Google Maps API
 
-## Support and contact details
+* JavaScript
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+* jQuery
 
-## Technologies Used
+* HTML
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* CSS
 
-### License
+* Bootstrap
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+* Visual Studio Code
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+* GitBash
+
+## **License**
+
+Copyright (c) 2020 **_heckle._**
+
+This software is licensed under the MIT license.
